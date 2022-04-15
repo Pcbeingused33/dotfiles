@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Acgrocks@hotmail.com
+	name = Alex Castillo
